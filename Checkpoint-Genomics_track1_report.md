@@ -1,6 +1,6 @@
 # Candidate biallelic BUB1B variants in mosaic variegated aneuploidy
 
-Team: Checkpoint Genomics. Track 1, model 1: phenotype-guided BUB1B candidate-pair prioritization. Proband: WGS_EX2312012. Reference assembly: GRCh38. Repository: https://github.com/irvingReyes02/checkpoint-genomics-mva-track1.
+Team: Checkpoint Genomics. Track 1, model 1: phenotype-guided BUB1B candidate-pair prioritization. Proband: PROBAND01. Reference assembly: GRCh38. Repository: https://github.com/irvingReyes02/checkpoint-genomics-mva-track1.
 
 ## Abstract
 
