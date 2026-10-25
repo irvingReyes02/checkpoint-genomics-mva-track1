@@ -1,0 +1,2 @@
+proband_id,chrom_1,pos_1,ref_1,alt_1,chrom_2,pos_2,ref_2,alt_2,epcr,finding_type,notes
+WGS_EX2312012,chr15,40209701,T,G,chr15,40220612,T,G,0.95,primary,"Candidate BUB1B compound-heterozygous pair: c.2210T>G (p.Leu737Ter) and c.3006T>G (p.Asn1002Lys). Phase unconfirmed; trans configuration is a hypothesis. EPCR is a subjective ranking estimate, not a calibrated clinical probability."
